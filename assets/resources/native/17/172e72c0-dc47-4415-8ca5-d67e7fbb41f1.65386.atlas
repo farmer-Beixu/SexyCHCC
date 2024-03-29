@@ -1,0 +1,34 @@
+
+bigwin.png
+size: 1688,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_burst
+  rotate: true
+  xy: 1457, 1
+  size: 572, 230
+  orig: 576, 249
+  offset: 0, 16
+  index: -1
+bigwin_glow_center
+  rotate: true
+  xy: 1076, 162
+  size: 411, 379
+  orig: 450, 423
+  offset: 20, 25
+  index: -1
+bigwin_ray
+  rotate: false
+  xy: 533, 30
+  size: 541, 543
+  orig: 550, 547
+  offset: 4, 0
+  index: -1
+bigwin_ray_top
+  rotate: false
+  xy: 1, 3
+  size: 530, 570
+  orig: 550, 580
+  offset: 10, 5
+  index: -1
